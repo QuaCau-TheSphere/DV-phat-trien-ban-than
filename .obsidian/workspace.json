@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "a75264c73abb05f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f9869afcb924eb8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e9da3213b31dd2a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hiểu biết sâu/Tâm lý con người/Việc có được phản hồi là rất khó.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "39cebba3d2ec8abd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kỹ năng/Tiếng Anh/Tiếng Anh.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8d127822f97c62db",
+    "type": "split",
+    "children": [
+      {
+        "id": "7bb0499d389c668e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2295f1081d6ac1f1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8392023f06be29f5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "279074fc2562c18b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "aaaf5b01f4f20c68",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "459e0cf8b5b7ff0f",
+    "type": "split",
+    "children": [
+      {
+        "id": "5db3d6e68c8be68d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94a2b8c430376af6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Kỹ năng/Tiếng Anh/Tiếng Anh.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "47824626b5a8c34b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Kỹ năng/Tiếng Anh/Tiếng Anh.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3a40bde8f43c8cac",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1a4aa0c426f52e7a",
+            "type": "leaf",
+            "state": {
+              "type": "QUICKSHARE_SIDE_VIEW",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian-custom-frames:Open Google Docs": false
+    }
+  },
+  "active": "39cebba3d2ec8abd",
+  "lastOpenFiles": [
+    "Trang web đang phát triển.md",
+    "Hiểu biết sâu/Tâm lý con người/Việc có được phản hồi là rất khó.md",
+    "Hiểu biết sâu/Phát triển bản thân/Phát triển bản thân là một dự án kéo dài suốt đời.md",
+    "Hiểu biết sâu/Phát triển bản thân/Hiểu ý nhau.md",
+    "Hiểu biết sâu/Phát triển bản thân/Quản lý cảm xúc/Quản lý cảm xúc.md",
+    "Hiểu biết sâu/Phát triển bản thân/Đặt mục tiêu/Đặt mục tiêu.md",
+    "Kỹ năng/Công nghệ thông tin/Công nghệ thông tin.md",
+    "Hiểu biết sâu/Môi trường nghĩ, nhận thức tăng cường/Môi trường nghĩ, nhận thức tăng cường.md",
+    "Hiểu biết sâu/Môi trường nghĩ, nhận thức tăng cường/Đọc và viết/Viết cho phép bạn nghĩ về sự nghĩ.md",
+    "Hiểu biết sâu/Môi trường nghĩ, nhận thức tăng cường/Đọc và viết/Việc rút gọn cả bài thành câu tóm tắt chỉ có tác dụng khi mình hiểu dược những khái niệm quan trọng trong bài.md",
+    "Hiểu biết sâu/Môi trường nghĩ, nhận thức tăng cường/Đọc và viết/Ta không tận dụng hết được môi trường máy tính khi chỉ bắt chước môi trường giấy.md",
+    "Hiểu biết sâu/Môi trường nghĩ, nhận thức tăng cường/Đọc và viết/Sự phát minh ra ký hiệu phát minh ra toán học hiện đại.md",
+    "Hiểu biết sâu/Môi trường nghĩ, nhận thức tăng cường/Đọc và viết/Sự phát minh của việc viết phát minh ra việc lập luận.md",
+    "Hiểu biết sâu/Môi trường nghĩ, nhận thức tăng cường/Đọc và viết/Mua sách giấy.md",
+    "Hiểu biết sâu/Môi trường nghĩ, nhận thức tăng cường/Đọc và viết/Một văn bản không phải chỉ để truyền đạt thông tin hay hiểu biết, mà còn nên trở thành một sân chơi cho người đọc khám phá.md",
+    "Hiểu biết sâu/Môi trường nghĩ, nhận thức tăng cường/Đọc và viết/Lectures, as a format, are shaped as if tranmissionism were true, so lecturers mostly behave as if it were true.md",
+    "Hiểu biết sâu/Môi trường nghĩ, nhận thức tăng cường/Đọc và viết/Giấy và bút không thể hiện hành vi của hệ thống đang được nghiên cứu.md",
+    "Hiểu biết sâu/Môi trường nghĩ, nhận thức tăng cường/Đọc và viết/Essence của một cuốn sách chính là mục lục của nó.md",
+    "Hiểu biết sâu/Môi trường nghĩ, nhận thức tăng cường/Đọc và viết/Đọc mục lục một cuốn sách thì đơn giản, nhưng có thể truy xuất được điều mình cần và vận dụng nó một cách hiệu quả thì phải đọc cả cuốn sách.md",
+    "Hiểu biết sâu/Môi trường nghĩ, nhận thức tăng cường/Đọc và viết/Ghi chú thông tin/Ý tưởng nếu không ghi lại ngay sẽ quên rất nhanh.md",
+    "Hiểu biết sâu/Môi trường nghĩ, nhận thức tăng cường/Đọc và viết/Ghi chú thông tin/Việc thu thập tài nguyên tạo cảm giác hữu ích hơn là thực sự hữu ích.md",
+    "Hiểu biết sâu/Môi trường nghĩ, nhận thức tăng cường/Đọc và viết/Ghi chú thông tin/Tiếng Anh càng làm mình muốn đọc lướt hơn.md",
+    "Hiểu biết sâu/Môi trường nghĩ, nhận thức tăng cường/Đọc và viết/Ghi chú thông tin/Ta thường không sẵn sàng để đọc một tài liệu khi ta mới thấy nó.md",
+    "Hiểu biết sâu/Môi trường nghĩ, nhận thức tăng cường/Đọc và viết/Ghi chú thông tin/Khu vườn số luôn phát triển và thay đổi. Nó không bao giờ có trạng thái xong.md",
+    "Hiểu biết sâu/Môi trường nghĩ, nhận thức tăng cường/Đọc và viết/Ghi chú thông tin/Giàn giáo nhận thức cần phải tuỳ biến với quá trình hiểu biết của người dùng.md",
+    "Hiểu biết sâu/Môi trường nghĩ, nhận thức tăng cường/Đọc và viết/Ghi chú thông tin/Evergreen notes biến ý tưởng trở thành đối tượng để mình thao tác.md",
+    "Hiểu biết sâu/Ξ Nguồn",
+    "Hiểu biết sâu/Tâm lý con người",
+    "Hiểu biết sâu/Sức khoẻ/Công thái học",
+    "Hiểu biết sâu/Sức khoẻ/Bệnh văn phòng",
+    "Hiểu biết sâu/Sức khoẻ",
+    "Hiểu biết sâu/Phát triển bản thân/Đặt mục tiêu",
+    "Hiểu biết sâu/Phát triển bản thân/Quản lý cảm xúc",
+    "Hiểu biết sâu/Phát triển bản thân",
+    "Hiểu biết sâu/Môi trường nghĩ, nhận thức tăng cường/Đọc và viết/Ghi chú thông tin",
+    "Hiểu biết sâu/Môi trường nghĩ, nhận thức tăng cường/Đọc và viết"
+  ]
+}
