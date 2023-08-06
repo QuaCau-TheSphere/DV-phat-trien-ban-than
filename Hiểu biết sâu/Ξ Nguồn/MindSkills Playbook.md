@@ -1,3 +1,6 @@
+---
+share: true
+---
 #### Welcome to the MindSkills Playbook: How to Ace the Game of Life
 
 ##### **”What is this? The last thing I need is another self-improvement book.“**

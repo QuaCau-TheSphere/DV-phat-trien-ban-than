@@ -1,5 +1,5 @@
 ---
-share: True
+share: true
 ---
 https://notes.andymatuschak.org/z8QSUyNdq3CMK79KSnCW7QTR1MPHEFi4Q2LY8
 

@@ -1,9 +1,8 @@
 {
   "github": {
     "user": "QuaCau-TheSphere",
-    "repo": "quan-ly-du-an-va-cong-cu-nghi-web",
+    "repo": "DW-phat-trien-ban-than",
     "branch": "main",
-    "token": "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",
     "automaticallyMergePR": true,
     "api": {
       "tiersForApi": "Github Free/Pro/Team (default)",
@@ -12,7 +11,10 @@
     "workflow": {
       "name": "",
       "commitMessage": "[PUBLISHER] Merge"
-    }
+    },
+    "verifiedRepo": true,
+    "rateLimit": 4375,
+    "otherRepo": []
   },
   "upload": {
     "behavior": "obsidian",
