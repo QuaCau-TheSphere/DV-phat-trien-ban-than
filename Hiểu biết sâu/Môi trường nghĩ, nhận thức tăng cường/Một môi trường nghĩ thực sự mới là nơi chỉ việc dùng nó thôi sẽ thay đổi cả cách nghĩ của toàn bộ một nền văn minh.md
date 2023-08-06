@@ -1,5 +1,5 @@
 ---
-share: True
+share: true
 ---
 > “A truly new medium [where] the very use of it would change the thought patterns of an entire civilization”
 > 

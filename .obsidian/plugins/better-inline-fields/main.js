@@ -403,6 +403,7 @@ var import_state = __toModule(require("@codemirror/state"));
 var TRUE_VALUE = ":: true";
 var FALSE_VALUE = ":: false";
 var TOGGLE_CLASSNAME = "bif-boolean-toggle";
+var FIELD_REGEX = /.*::\s*(true|false)/g;
 var CheckboxWidget = class extends import_view.WidgetType {
   constructor(checked) {
     super();
@@ -501,13 +502,23 @@ function getCheckboxDecorators(view, checkboxPosition) {
   }
   return builder.finish();
 }
-var toggleBoolean = (view, pos) => {
-  const before = view.state.doc.sliceString(Math.max(0, pos - 5), pos);
+var toggleBoolean = (view, pos, checkboxPosition) => {
+  let to;
+  if (checkboxPosition === "left" || checkboxPosition === "replace") {
+    const line = view.state.doc.lineAt(pos);
+    const match = line.text.match(FIELD_REGEX);
+    if (!match)
+      return false;
+    to = line.from + match[0].length;
+  } else {
+    to = pos;
+  }
+  const valueText = view.state.doc.sliceString(Math.max(0, to - 5), to);
   let changes;
-  if (before === "false") {
-    changes = { from: pos - 5, to: pos, insert: "true" };
-  } else if (before.endsWith("true")) {
-    changes = { from: pos - 4, to: pos, insert: "false" };
+  if (valueText === "false") {
+    changes = { from: to - 5, to, insert: "true" };
+  } else if (valueText.endsWith("true")) {
+    changes = { from: to - 4, to, insert: "false" };
   } else {
     return false;
   }
@@ -529,7 +540,7 @@ var checkboxPlugin = (checkboxPosition) => {
       mousedown: (e, view) => {
         const target = e.target;
         if (target && target.nodeName === "INPUT" && target.classList.contains(TOGGLE_CLASSNAME)) {
-          return toggleBoolean(view, view.posAtDOM(target));
+          return toggleBoolean(view, view.posAtDOM(target), checkboxPosition);
         }
         return false;
       }
