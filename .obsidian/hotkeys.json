@@ -379,5 +379,13 @@
       ],
       "key": "S"
     }
+  ],
+  "obsidian-mkdocs-publisher:publisher-upload-all-edited-new": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "S"
+    }
   ]
 }

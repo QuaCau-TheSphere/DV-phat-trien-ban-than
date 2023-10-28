@@ -64,3 +64,6 @@ Creativity
 Taking action
 
 Buckle up. You’re in for the ride of your life.
+
+[Ghé thăm MindSkills Playbook](https://publish.obsidian.md/mindskills-playbook/_MindSkills+Playbook/_Master+Table+of+Contents){ .md-button .md-button--primary }
+
